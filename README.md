@@ -1,6 +1,8 @@
 # Visualize your graphDB data in your web browser
 
-This sample demonstrate how to visualize data stored in an Amazon Neptune database with a React JS web application. 
+This sample demonstrate how to visualize data stored in an Amazon Neptune database with a React JS web application.
+
+The web application allows you to navigate in a hierarchy of nodes by double clicking a node. The demo is simulating the visualisation of spare parts. The high level nodes are complex systems like motors that are composed of sub systems (sons). Parts/nodes can be deprecated and replaced by new spare parts. This is represented by the "replaced by" relationship.
 
 If your application has relationships and connections, using a relational database is hard. But Amazon Neptune, a fully managed graph database, is purpose-built to store and navigate relationships. You can use Neptune to build popular graph applications such as knowledge graphs, identity graphs, and fraud graphs.
 

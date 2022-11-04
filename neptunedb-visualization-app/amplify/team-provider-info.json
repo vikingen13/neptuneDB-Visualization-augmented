@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-neptunedbviz-dev-110630-authRole",
+      "UnauthRoleArn": "arn:aws:iam::204828070643:role/amplify-neptunedbviz-dev-110630-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::204828070643:role/amplify-neptunedbviz-dev-110630-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-neptunedbviz-dev-110630-deployment",
+      "UnauthRoleName": "amplify-neptunedbviz-dev-110630-unauthRole",
+      "StackName": "amplify-neptunedbviz-dev-110630",
+      "StackId": "arn:aws:cloudformation:eu-west-1:204828070643:stack/amplify-neptunedbviz-dev-110630/dd960b10-30e7-11ed-8e5b-06a55bc26fc3",
+      "AmplifyAppId": "d29pu1225h4ijp"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d29pu1225h4ijp",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
